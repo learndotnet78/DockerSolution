@@ -1,0 +1,15 @@
+E:\repos2\DockerSolution\Docker.Infrastructure\bin\Debug\net8.0\Docker.Infrastructure.deps.json
+E:\repos2\DockerSolution\Docker.Infrastructure\bin\Debug\net8.0\Docker.Infrastructure.dll
+E:\repos2\DockerSolution\Docker.Infrastructure\bin\Debug\net8.0\Docker.Infrastructure.pdb
+E:\repos2\DockerSolution\Docker.Infrastructure\bin\Debug\net8.0\Docker.Domain.dll
+E:\repos2\DockerSolution\Docker.Infrastructure\bin\Debug\net8.0\Docker.Domain.pdb
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\Docker.Infrastructure.csproj.AssemblyReference.cache
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\Docker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\Docker.Infrastructure.AssemblyInfoInputs.cache
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\Docker.Infrastructure.AssemblyInfo.cs
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\Docker.Infrastructure.csproj.CoreCompileInputs.cache
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\Docker.I.6A0E418F.Up2Date
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\Docker.Infrastructure.dll
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\refint\Docker.Infrastructure.dll
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\Docker.Infrastructure.pdb
+E:\repos2\DockerSolution\Docker.Infrastructure\obj\Debug\net8.0\ref\Docker.Infrastructure.dll

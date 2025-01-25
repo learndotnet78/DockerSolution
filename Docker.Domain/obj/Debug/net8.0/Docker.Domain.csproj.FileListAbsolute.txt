@@ -1,0 +1,11 @@
+E:\repos2\DockerSolution\Docker.Domain\bin\Debug\net8.0\Docker.Domain.deps.json
+E:\repos2\DockerSolution\Docker.Domain\bin\Debug\net8.0\Docker.Domain.dll
+E:\repos2\DockerSolution\Docker.Domain\bin\Debug\net8.0\Docker.Domain.pdb
+E:\repos2\DockerSolution\Docker.Domain\obj\Debug\net8.0\Docker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos2\DockerSolution\Docker.Domain\obj\Debug\net8.0\Docker.Domain.AssemblyInfoInputs.cache
+E:\repos2\DockerSolution\Docker.Domain\obj\Debug\net8.0\Docker.Domain.AssemblyInfo.cs
+E:\repos2\DockerSolution\Docker.Domain\obj\Debug\net8.0\Docker.Domain.csproj.CoreCompileInputs.cache
+E:\repos2\DockerSolution\Docker.Domain\obj\Debug\net8.0\Docker.Domain.dll
+E:\repos2\DockerSolution\Docker.Domain\obj\Debug\net8.0\refint\Docker.Domain.dll
+E:\repos2\DockerSolution\Docker.Domain\obj\Debug\net8.0\Docker.Domain.pdb
+E:\repos2\DockerSolution\Docker.Domain\obj\Debug\net8.0\ref\Docker.Domain.dll
