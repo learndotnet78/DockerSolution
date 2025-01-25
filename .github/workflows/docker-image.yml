@@ -15,6 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
-      run: docker build -t learndotnet78/dockerapi:latest
+      run: docker build -t learndotnet78/dockerapi:latest -f Docker.API/Dockerfile .
     - name: Push the Docker image
       run: docker push learndotnet78/dockerapi:latest
