@@ -22,4 +22,4 @@ jobs:
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 
     - name: Push the image to Docker Hub
-      run: learndotnet78/dockerapi:latest
+      run: docker push learndotnet78/dockerapi:latest
