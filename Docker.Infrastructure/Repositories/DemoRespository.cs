@@ -48,6 +48,17 @@ namespace Docker.Infrastructure.Repositories
             };
             _list.Add(demo);
 
+            demo = new()
+            {
+                DemoID = 4,
+                DemoName = "Tom Walter",
+                Address = "345 Fredrick Avenue",
+                City = "Owensboro",
+                State = "KY",
+                Comments = "KY Customer"
+            };
+            _list.Add(demo);
+
 
         }
         public Demo AddDemo(Demo demo)
