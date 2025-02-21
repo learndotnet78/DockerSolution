@@ -13,7 +13,6 @@ jobs:
     - uses: actions/checkout@v3
     
     - name: Build the Docker image
-      working-directory: Dockerized/Hello
       run: docker build -t learndotnet78/dockerapi:latest -f Docker.API/Dockerfile .
 
     - name: Log into Docker Hub
